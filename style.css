@@ -11403,7 +11403,7 @@ body:not(.device-touch) #gotoTop {
 	top: auto;
 	left: auto;
 	right: 0;
-	bottom: -154px;
+	bottom: 60px;
 	background-color: rgba(0,0,0,0.6);
 	border-radius: 3px 3px 0 0;
 }
@@ -13231,3 +13231,6 @@ body:not(.no-transition) #wrapper,
 	padding:0!important
 }
 
+#logo {
+    padding: 1%;
+}
